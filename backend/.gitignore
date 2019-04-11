@@ -1,5 +1,5 @@
-yarm-error.log
-yarm.lock
+yarn-error.log
+yarn.lock
 node_modules
 *~
 *swp
