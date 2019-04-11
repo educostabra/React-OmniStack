@@ -14,11 +14,13 @@ This is a training project with the technologies NodeJS+ReactJS+React Native pro
 - [MongoDB Atlas](https://www.mongodb.com)
 - [Insomnia Rest Test](https://insomnia.rest/download/)
 
-## Commands
+## Useful Commands
 
-- yard init -y 
+- yarn dev
+- yarn init -y 
 - yarn add express 
 - yarn add nodemon -D 
 - yarn add mongoose 
 - yarn add multer
-- yard add socket.io
+- yarn add socket.io
+- yarn add cors
