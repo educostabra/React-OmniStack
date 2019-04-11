@@ -30,6 +30,9 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use('/files', express.static(path.resolve(__dirname, '..', 'tmp')));
 app.use(require('./routes'));
+app.use('/test', (req, res) => {
+    return res.send('Hello World!');
+});
 
 server.listen(process.env.PORT || 3333);
 

@@ -24,3 +24,4 @@ This is a training project with the technologies NodeJS+ReactJS+React Native pro
 - yarn add multer
 - yarn add socket.io
 - yarn add cors
+
