@@ -8,12 +8,14 @@ This is a training project with the technologies NodeJS+ReactJS+React Native pro
   - [Video 2](https://www.youtube.com/watch?v=IoONU2WLfrA)
   - [Video 3](https://www.youtube.com/watch?v=ua9nKS3XYpw)
 - [How to configure npm to use a proxy](https://www.jhipster.tech/configuring-a-corporate-proxy/)
-- [MongoDB Atlas - Clud](https://www.mongodb.com)
+- [MongoDB Atlas](https://www.mongodb.com)
 - [Insomnia Rest Test](https://insomnia.rest/download/)
 
 ## Commands
 
-- yard init -y : Criar package .json
+- yard init -y 
 - yarn add express 
 - yarn add nodemon -D 
 - yarn add mongoose 
+- yarn add multer
+- yard add socket.io
