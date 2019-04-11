@@ -1,4 +1,7 @@
+***Atenção:*** Projeto não concluido porém o conteúdo comitado esta funcionando sem erros. Parei na Aula 2 - 01:09:00 após a inclusão do socket.io. Prosseguirei em breve.
+
 # React-OmniStack
+
 This is a training project with the technologies NodeJS+ReactJS+React Native provided by the OminiStack school.
 
 ## Useful links
